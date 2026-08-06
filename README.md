@@ -3,7 +3,7 @@ City of Spiculation
 
 <a href="https://spacehey.com/ernopolis/">
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Spacehey_Logo.svg" alt="drawing" width="110"/>
- <a href="https://letterboxd.com/ernopolis/"> 
+ <a href="https://letterboxd.com/ernedelaborgia/"> 
  <img alt="letterboxd" src="https://img.shields.io/badge/letterboxd-202830?logo=letterboxd&logoColor=white&style=for-the-badge" />
   </a>
 
